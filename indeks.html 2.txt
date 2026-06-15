@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hijab Viscose</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Hijab Viscose</h1>
+        <p>Elegan, Nyaman, dan Modern</p>
+    </header>
+
+    <main>
+        <section class="gambar">
+            <img src="hijab.jpg" alt="Hijab Viscose">
+        </section>
+
+        <section class="sejarah">
+            <h2>Sejarah Hijab Viscose</h2>
+            <p>
+                Hijab viscose merupakan salah satu jenis hijab yang populer di kalangan wanita muslim.
+                Bahan viscose pertama kali dikembangkan pada akhir abad ke-19 sebagai alternatif sutra
+                yang lebih terjangkau. Kain ini dibuat dari serat alami yang diproses secara kimia sehingga
+                menghasilkan tekstur yang lembut, ringan, dan nyaman digunakan.
+            </p>
+
+            <p>
+                Dalam perkembangan dunia fashion muslim, hijab berbahan viscose mulai diminati karena
+                mudah dibentuk, adem saat dipakai, serta memiliki tampilan yang elegan.
+                Saat ini hijab viscose tersedia dalam berbagai warna dan motif yang cocok digunakan
+                untuk aktivitas sehari-hari maupun acara formal.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2026 Fashion Hijab Indonesia</p>
+    </footer>
+
+</body>
+</html>
